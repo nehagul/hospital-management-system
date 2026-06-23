@@ -41,13 +41,6 @@ README.md
 
    java HospitalManagementSystem05
 
-## Future Improvements
-
-* Database Integration (MySQL)
-* Graphical User Interface (GUI)
-* Secure Authentication System
-* Doctor and Staff Management Module
-* Online Appointment Booking
 
 ## Author
 

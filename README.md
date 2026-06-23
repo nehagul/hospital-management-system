@@ -23,4 +23,4 @@ A console-based Hospital Management System developed in Java for managing patien
 
 ## Author
 
-Neha
+Neha Gul

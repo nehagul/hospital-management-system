@@ -1,25 +1,53 @@
 # Hospital Management System
 
-A console-based Hospital Management System developed in Java for managing patient records, appointments, billing, and emergency cases.
+A Java-based Hospital Management System designed to manage patient records, appointments, billing, emergency cases, and healthcare administration through a menu-driven console interface with file handling support.
 
 ## Features
 
-* Admin Login System
-* Faculty Login System
-* Add, Update, Delete Patients
-* Search Patient Records
-* Appointment Scheduling
-* Emergency Case Management
-* Billing System
-* Report Generation
-* File Handling
+* Admin and Faculty Login System
+* Add New Patient Records
+* Update Existing Patient Information
+* Delete Patient Records
+* Search Patients by ID, Name, or Disease
+* Schedule Patient Appointments
+* Manage Emergency Cases
+* Generate Patient Reports
+* Billing Management
+* View Hospital Statistics
+* File-Based Data Storage
 
 ## Technologies Used
 
 * Java
+* Arrays
+* Methods
 * File Handling
-* OOP Concepts
 * Scanner Class
+* Command Line Interface (CLI)
+
+## Project Structure
+
+HospitalManagementSystem05.java
+
+README.md
+
+## How to Run
+
+1. Compile the program:
+
+   javac HospitalManagementSystem05.java
+
+2. Run the program:
+
+   java HospitalManagementSystem05
+
+## Future Improvements
+
+* Database Integration (MySQL)
+* Graphical User Interface (GUI)
+* Secure Authentication System
+* Doctor and Staff Management Module
+* Online Appointment Booking
 
 ## Author
 
